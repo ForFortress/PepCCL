@@ -1,11 +1,5 @@
-Status – Code & Data Availability
+All the source codes used in this study will be uploaded to the repository gradually within 6 days.
 
-All source code used in this study will be uploaded to this repository within FIVE DAYS.
+To ensure reproducibility, we will conduct deployment tests in a completely new environment, which will prolong the complete upload period. 
 
-We are currently preparing the final package to ensure reproducibility. 
-
-The repository will contain:
-1. Full training and evaluation scripts
-2. Trained model weights (will be made available upon publication)
-3. Preprocessed datasets (TE125, TE639)
-4. Environment configuration files (requirements.txt)
+Additionally, after the paper is approved, the cloud storage address of the model's weight files (.pth format) will be updated.
