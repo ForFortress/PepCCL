@@ -16,7 +16,7 @@ import torch.nn.functional as F
 device = torch.device("cuda:0")
 
 
-def TL(output,label,logits,epoch):
+def CCCL(output,label,logits,epoch):
     z_zero = torch.tensor([0.0]).to(device)
     z_one = torch.tensor([1.0]).to(device)
 
