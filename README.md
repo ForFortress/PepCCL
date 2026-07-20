@@ -1,5 +1,5 @@
-All the source codes used in this study will be uploaded to the repository gradually within 6 days.
+All source code used in this study will be fully uploaded to this repository within 6 days. 
 
-To ensure reproducibility, we will conduct deployment tests in a completely new environment, which will prolong the complete upload period. 
+The trained model weights (.pth format, ~4.5 GB in total) will be made available via cloud storage upon publication. 
 
-Additionally, after the paper is approved, the cloud storage address of the model's weight files (.pth format) will be updated.
+If access to any materials is needed immediately, please contact the corresponding author, and we are happy to share them upon reasonable request.
